@@ -14,13 +14,13 @@ export const SITE_CONFIG = {
     { image: img("asientos_recogidos.jpeg"), label: "Asientos del interior" },
     { image: img("asientos_traseros.jpeg"), label: "Asientos del interior" },
     { image: img("asientos_plegados.jpeg"), label: "Asientos del interior" },
-    { image: img("furgoneta_parte_trasera.jpeg"), label: "Parrilla superior y equipaje" },
+    { image: img("furgoneta_parte_trasera.jpeg"), label: "Parte trasera de la furgoneta" },
   ],
   destinations: [
     { id: "villamil", name: "Villamil Playas", price: 100, originalPrice: 120, image: img("villamil.jpg"), description: "La playa más cercana a Guayaquil para un día completo en grupo." },
     { id: "salinas", name: "Salinas", price: 140, originalPrice: 165, image: img("salinas.jpg"), description: "Malecón y playa urbana para pasear sin complicaciones." },
     { id: "san-pablo", name: "San Pablo", price: 130, originalPrice: 150, image: img("san pablo.jpg"), description: "Una costa más tranquila para descansar con tu grupo." },
-    { id: "ayangue", name: "Ayangue", price: 160, originalPrice: 170, image: img("ayangue.jpg"), description: "Bahía de aguas calmas para desconectarte junto al mar." },
+    { id: "ayangue", name: "Ayangue", price: 160, originalPrice: 175, image: img("ayangue.jpg"), description: "Bahía de aguas calmas para desconectarte junto al mar." },
     { id: "montanita", name: "Montañita", price: 170, originalPrice: 190, image: img("montañita.jpg"), description: "La escapada con más ambiente de la ruta." },
   ],
 };
